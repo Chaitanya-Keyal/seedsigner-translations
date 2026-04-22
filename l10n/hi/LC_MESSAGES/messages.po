@@ -34,7 +34,7 @@ msgstr "tSats"
 
 #: src/seedsigner/gui/components.py src/seedsigner/gui/screens/psbt_screens.py
 msgid "btc"
-msgstr "btc"
+msgstr "blahhhhhhhh"
 
 #: src/seedsigner/gui/components.py src/seedsigner/gui/screens/psbt_screens.py
 #: src/seedsigner/models/settings_definition.py
